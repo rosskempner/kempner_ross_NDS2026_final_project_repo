@@ -14,9 +14,10 @@ Create an anaconda environment with the environment.yml file given here with:
 
 2) conda activate kempner_ross_NDS2026_final_project
 
-With vscode you can select the conda environment in the jupyter notebook.
+With VSCode you can select the conda environment in the jupyter notebook.
 
 **How to recreate the figures in the paper**
+
 In data/ you will find the the datasets for the two input-defined S1DZ 
 subpopulations. Here you will find x,y coordinates of the mouse during the
 social preference test and also the calcium traces.
