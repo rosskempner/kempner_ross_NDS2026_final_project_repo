@@ -23,7 +23,7 @@ subpopulations. Here you will find x,y coordinates of the mouse during the
 social preference test and also the calcium traces.
 
 In notebooks/ you will find the notebooks which produced all of the plots in
-the slides I gave in class using this data.
+the slides I gave in class using these data.
 
 The notebooks are organized in folders for the 
 motor-S1DZ and sensory-S1DZ input-defined subpopulations.
